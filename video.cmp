@@ -1,0 +1,136 @@
+Cmp-Mod V01 Created by Cvpcb (2014-07-24 BZR 5024)-product   date = Wed Jul 30 22:11:12 2014
+
+BeginCmp
+TimeStamp = /53D94FED;
+Reference = C1;
+ValeurCmp = 27pf;
+IdModule  = Capacitors_ThroughHole:Capacitor3MMDiscRM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53D94FEE;
+Reference = C2;
+ValeurCmp = 27pf;
+IdModule  = Capacitors_ThroughHole:Capacitor3MMDiscRM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53D94FF3;
+Reference = C3;
+ValeurCmp = C;
+IdModule  = Capacitors_ThroughHole:Capacitor3MMDiscRM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53D94FFB;
+Reference = C4;
+ValeurCmp = C;
+IdModule  = Capacitors_ThroughHole:Capacitor3MMDiscRM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53D94FFC;
+Reference = C5;
+ValeurCmp = C;
+IdModule  = Capacitors_ThroughHole:Capacitor3MMDiscRM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53D94FFD;
+Reference = C6;
+ValeurCmp = C;
+IdModule  = Capacitors_ThroughHole:Capacitor3MMDiscRM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53D94FFE;
+Reference = C7;
+ValeurCmp = C;
+IdModule  = Capacitors_ThroughHole:Capacitor3MMDiscRM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53D94FFF;
+Reference = C8;
+ValeurCmp = C;
+IdModule  = Capacitors_ThroughHole:Capacitor3MMDiscRM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53D95000;
+Reference = C9;
+ValeurCmp = C;
+IdModule  = Capacitors_ThroughHole:Capacitor3MMDiscRM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53D94FF0;
+Reference = P1;
+ValeurCmp = CONN_25X2;
+IdModule  = Socket_Strips:Socket_Strip_Straight_2x25;
+EndCmp
+
+BeginCmp
+TimeStamp = /53D94FFA;
+Reference = P2;
+ValeurCmp = CONN_6;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /53D95BA7;
+Reference = U1;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /53D94FF9;
+Reference = U2;
+ValeurCmp = 74LS32;
+IdModule  = Sockets_DIP:DIP-14__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /53D94FE7;
+Reference = U3;
+ValeurCmp = V9958;
+IdModule  = Own:DIP64-70mil-900_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /53D94FE8;
+Reference = U4;
+ValeurCmp = DRAM_64Kx4;
+IdModule  = Sockets_DIP:DIP-18__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /53D94FEA;
+Reference = U5;
+ValeurCmp = DRAM_64Kx4;
+IdModule  = Sockets_DIP:DIP-18__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /53D94FE9;
+Reference = U6;
+ValeurCmp = DRAM_64Kx4;
+IdModule  = Sockets_DIP:DIP-18__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /53D94FEB;
+Reference = U7;
+ValeurCmp = DRAM_64Kx4;
+IdModule  = Sockets_DIP:DIP-18__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /53D94FEC;
+Reference = X1;
+ValeurCmp = 21.477MHz;
+IdModule  = Crystals:Crystal_HC49-U_Vertical;
+EndCmp
+
+EndListe
